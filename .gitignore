@@ -6,3 +6,4 @@ Release/
 *.obj
 *.ilk
 *.pdb
+*.user
