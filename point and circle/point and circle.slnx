@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="miao/miao.vcxproj" Id="0c16df5b-7cfb-4ebc-9bb0-4721be166ad1" />
+</Solution>
